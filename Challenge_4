@@ -9,5 +9,4 @@ function LongestWord(sen) {
          
 }
    
-// keep this function call here 
 LongestWord(readline());
